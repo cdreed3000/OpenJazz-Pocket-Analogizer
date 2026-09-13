@@ -1,0 +1,33 @@
+OpenJazz Pocket Analogizer 240p v1.0
+Generated: 2026-09-12 22:53:05 -05:00
+
+HARDWARE-TESTED RELEASE COMPONENTS
+==================================
+
+OpenJazz ELF
+SHA256: 0115fed9e61e77d9a45d1237dfd15a97929de17fe3d69d732dcf776d6c00b9af
+
+V13 os25.rbf_r
+SHA256: b7de9bbbff82f3ce575d3055914e1a5947c1a20103f2235e1a896612b2e7ea28
+
+Matching openfpgaOS os.bin
+SHA256: 259e16ffe986a3a6ffdb9aec68c57a9a2d0915c1a2eb43076e981174ff1c0ef2
+
+SOURCE PROVENANCE
+=================
+
+openJazz_pocket:
+(unavailable)
+
+OpenJazz submodule:
+(unavailable)
+
+openfpgaCore:
+(unavailable)
+
+RELEASE GUARANTEES
+==================
+
+- 320x200 CENTER is the fresh-install default.
+- Exact V13 RBF is packaged; the release builder does not recompile FPGA HDL.
+- Commercial game data, SAVE.* files, openjazz.cfg and *.sav files are stripped.

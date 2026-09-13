@@ -1,0 +1,15 @@
+.obj/
+build/
+releases/
+src/openjazz/*.iso
+jazz
+src/openjazz/jazz
+src/*/app.elf
+src/openjazz/openjazz_pc
+src/openjazz/openjazz-log.html
+src/openjazz/openjazz.cfg
+tools/__pycache__/
+.DS_Store
+**/.DS_Store
+art/
+GOG/
